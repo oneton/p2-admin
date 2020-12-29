@@ -22,7 +22,6 @@ import org.eclipse.equinox.p2.core.ProvisionException;
 import org.eclipse.equinox.p2.internal.repository.tools.CompositeRepositoryApplication;
 import org.eclipse.equinox.p2.internal.repository.tools.Messages;
 import org.eclipse.equinox.p2.internal.repository.tools.RepositoryDescriptor;
-import org.eclipse.equinox.p2.metadata.IInstallableUnit;
 import org.eclipse.equinox.p2.repository.ICompositeRepository;
 import org.eclipse.equinox.p2.repository.IRepository;
 import org.eclipse.equinox.p2.repository.artifact.IArtifactRepositoryManager;
